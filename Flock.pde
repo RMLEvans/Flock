@@ -9,7 +9,7 @@ float defection_rate = 0.00045;
 float           vmin = 4.5;
 float           vmax = 5.0;
 
-// Nice values...
+// Some nice values to use, for example...
 /*
 // Like birds:
 int                N = 1600;
@@ -73,8 +73,8 @@ void setup()
 {
   int i;
   
-//  size(LX,LY);
-  size(800,640);
+//  size(LX,LY);  // Worked with Processsing 2, but syntax not allowed by Processing 3.
+  size(800,640);  // Processing 3 requires hard-coded numbers for the window size.
   
   stroke(50,50,100);
   fill(25,25,80);
