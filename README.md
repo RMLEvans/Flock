@@ -1,5 +1,10 @@
 # Flock
 
+https://github.com/RMLEvans/Flock/blob/master/Capture3.PNG?raw=true
+
+![capture3](https://github.com/RMLEvans/Flock/blob/master/Capture3.PNG?raw=true)
+
+
 A toy model of a flock of birds / flies / fish (depending on the parameter settings) using Processing. (See Processing.org)
 
 For the sake of speed, not all "birds" interact with each other, instead, they follow a small number of leaders, and sporadically (at random) change 
